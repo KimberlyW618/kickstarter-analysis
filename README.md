@@ -16,7 +16,7 @@ Some limitations of this dataset include.
 - It does not provide analysis on the marketing strategy that has been employed for fundraising. 
 
 Here are some visualizations.
-- Kickstaerter_-_Outcomes_Based_on_Launch_Date_-_line_w_markers vizualization.png
+- ![Outcomes Based on Launch Date Vizualization](Kickstaerter_-_Outcomes_Based_on_Launch_Date_-_line_w_markers vizualization.png)
 - Kickstarter_Parent_Category_Outcomes_Visualization.png
 
 Other possible tables or graphs that could be created include.
