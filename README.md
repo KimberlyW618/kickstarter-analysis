@@ -17,6 +17,7 @@ Some limitations of this dataset include.
 
 Here are some visualizations.
 - Kickstaerter_-_Outcomes_Based_on_Launch_Date_-_line_w_markers vizualization.png
+- - https://github.com/KimberlyW618/kickstarter-analysis/blob/4483c5857000d9bee090674a1a7dcc50684f9c33/Kickstaerter_-_Outcomes_Based_on_Launch_Date_-_line_w_markers%20vizualization.png
 - Kickstarter_Parent_Category_Outcomes_Visualization.png
 
 Other possible tables or graphs that could be created include.
