@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Descrition: An analysis of kickstarter campaigns all over the world.  0
+Descrition: An analysis of kickstarter campaigns all over the world. 
 
 
 ## Results
