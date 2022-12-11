@@ -3,7 +3,7 @@
 Description: An analysis of kickstarter campaigns all over the world. 
 
 ## Results
-THe analysis showed that the launch date can have an impact on the success of the campaign. Late spring showed to be the best time and fall and winter were least succesful. Successful camapigns also had resonable fundraising goals.  
+The analysis showed that the launch date can have an impact on the success of the campaign. Late spring showed to be the best time and fall and winter were least succesful. Successful camapigns also had resonable fundraising goals.  
 
 ##Visualizations
 
