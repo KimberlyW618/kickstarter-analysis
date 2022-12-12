@@ -26,7 +26,7 @@ An analysis of kickstarter campaigns all over the world to help Louise understan
 
 ### Analysis of Outcomes Based on Goals
 
-- Visualization of Outcomes Based on Goals
+- Visualization of Outcomes of Plays Based on Goals
 ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 
 
